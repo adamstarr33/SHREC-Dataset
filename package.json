@@ -1,0 +1,11 @@
+{
+  "name": "shrec-dataset",
+  "version": "1.0.0",
+  "description": "Creating a dataset of album covers seperated by genre :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Starr",
+  "license": "ISC"
+}
